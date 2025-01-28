@@ -1,7 +1,8 @@
 // controller.js
-const { generatePodcastMonologue } = require("./queries");
-const speech = require("@google-cloud/speech");
-const fs = require("fs");
+import { generatePodcastMonologue } from '../queries.js'; // Import the function from queries.js
+import { SpeechClient } from '@google-cloud/speech'; // Import the SpeechClient class from the Google Cloud Speech module
+import fs from 'fs'; // Import the built-in fs module
+
 
 async function generatePodcast(input, isAudio = false) {
     let textInput;
