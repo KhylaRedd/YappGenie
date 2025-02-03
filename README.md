@@ -38,7 +38,7 @@ Yapp Genie is an AI-powered podcast generator that transforms your input into fu
 
 ### Prerequisites
 
-*  Node.js (version 18 or above
+*  Node.js (version 18 or above)
 *  NPM 
 
 ### Installation
