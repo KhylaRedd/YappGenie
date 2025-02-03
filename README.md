@@ -70,7 +70,16 @@ Yapp Genie is an AI-powered podcast generator that transforms your input into fu
 
 5.  Navigate to `http://localhost:3000` (or your configured port).
 
+6.  ## Visuals
+![Screenshot 2025-02-03 11 56 34 AM](https://github.com/user-attachments/assets/d4b31a39-0883-4acb-8291-2b6b284b1c59)
+![Screenshot 2025-02-03 11 57 00 AM](https://github.com/user-attachments/assets/5de11b03-96ea-40cc-a048-e0dae0356e41)
+![Screenshot 2025-02-03 11 57 21 AM](https://github.com/user-attachments/assets/bbe2efbb-04d9-4d07-9bb3-e4ddbcb3ac68)
+
+7.   
+
 ## Running Tests
 
 ```bash
 npm test
+
+#Hope my application made you smile! Have a fantastic day
