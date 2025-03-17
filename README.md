@@ -10,8 +10,8 @@ Yapp Genie is an AI-powered podcast generator that transforms your input into fu
 *   Real-Time Interaction: Enter a topic, and Yapp Genie instantly generates a witty, fresh perspective with real-time text-to-speech output.
 *   Engaging UI: A user-friendly interface makes content creation and interaction smooth and enjoyable.
 
-## Technologies Used
-# Backend:
+# Technologies Used
+## Backend:
 
 Express.js: Web framework for building RESTful APIs.
 google/generative-ai (v0.21.0): Machine learning models for generative AI tasks.
@@ -19,7 +19,7 @@ google-cloud/speech (v6.7.0): Google’s Speech-to-Text API.
 Axios (v1.7.9): Promise-based HTTP client for backend requests.
 CORS (v2.8.5): For managing cross-origin requests.
 
-# Frontend:
+## Frontend:
 
 React (v18.3.1): JavaScript library for building user interfaces.
 React DOM (v18.3.1): For rendering React components to the DOM.
