@@ -78,6 +78,3 @@ globals (v15.14.0): Defines global variables for the JavaScript environment.
 ```bash
 npm test
 
-
-
-   ## Hope my application made you smile! Have a fantastic day 
