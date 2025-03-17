@@ -21,15 +21,16 @@ Yapp Genie is an AI-powered podcast generator that transforms your input into fu
 
 ## Frontend:
 
-React (v18.3.1): JavaScript library for building user interfaces.
-React DOM (v18.3.1): For rendering React components to the DOM.
-Development Tools:
+*  React (v18.3.1): JavaScript library for building user interfaces.
+*  React DOM (v18.3.1): For rendering React components to the DOM.
 
-Vite (v6.0.5): A fast build tool for modern web apps.
-ESLint (v9.17.0): Static code analysis tool for JavaScript.
-@vitejs/plugin-react (v4.3.4): Optimizations for React projects in Vite.
-eslint-plugin-react (v7.37.2), eslint-plugin-react-hooks (v5.0.0), eslint-plugin-react-refresh (v0.4.16): ESLint plugins for React.
-globals (v15.14.0): Defines global variables for the JavaScript environment.
+  ## Development Tools:
+
+*  Vite (v6.0.5): A fast build tool for modern web apps.
+*  ESLint (v9.17.0): Static code analysis tool for JavaScript.
+*  vitejs/plugin-react (v4.3.4): Optimizations for React projects in Vite.
+*  eslint-plugin-react (v7.37.2), eslint-plugin-react-hooks (v5.0.0), eslint-plugin-react-refresh (v0.4.16): ESLint plugins for React.
+*  globals (v15.14.0): Defines global variables for the JavaScript environment.
 
 ## Getting Started
 
