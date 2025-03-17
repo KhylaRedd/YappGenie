@@ -11,28 +11,25 @@ Yapp Genie is an AI-powered podcast generator that transforms your input into fu
 *   Engaging UI: A user-friendly interface makes content creation and interaction smooth and enjoyable.
 
 ## Technologies Used
+# Backend:
 
-*   **Backend:**
-    *   Express.js
-    *   `@google/generative-ai` (v0.21.0)
-    *   `@google-cloud/speech` (v6.7.0)
-    *   Axios (v1.7.9)
-    *   cors (v2.8.5)
-    *   dotenv (v16.4.7)
-    *   fs
-*   **Frontend:**
-    *   React (v18.3.1)
-    *   React DOM (v18.3.1)
-*   **Development Tools:**
-    *   Vite (v6.0.5)
-    *   ESLint (v9.17.0)
-    *   `@vitejs/plugin-react` (v4.3.4)
-    *   `@types/react` (v18.3.18)
-    *   `@types/react-dom` (v18.3.5)
-    *   `eslint-plugin-react` (v7.37.2)
-    *   `eslint-plugin-react-hooks` (v5.0.0)
-    *   `eslint-plugin-react-refresh` (v0.4.16)
-    *   `globals` (v15.14.0)
+Express.js: Web framework for building RESTful APIs.
+google/generative-ai (v0.21.0): Machine learning models for generative AI tasks.
+google-cloud/speech (v6.7.0): Google’s Speech-to-Text API.
+Axios (v1.7.9): Promise-based HTTP client for backend requests.
+CORS (v2.8.5): For managing cross-origin requests.
+
+# Frontend:
+
+React (v18.3.1): JavaScript library for building user interfaces.
+React DOM (v18.3.1): For rendering React components to the DOM.
+Development Tools:
+
+Vite (v6.0.5): A fast build tool for modern web apps.
+ESLint (v9.17.0): Static code analysis tool for JavaScript.
+@vitejs/plugin-react (v4.3.4): Optimizations for React projects in Vite.
+eslint-plugin-react (v7.37.2), eslint-plugin-react-hooks (v5.0.0), eslint-plugin-react-refresh (v0.4.16): ESLint plugins for React.
+globals (v15.14.0): Defines global variables for the JavaScript environment.
 
 ## Getting Started
 
@@ -78,8 +75,9 @@ Yapp Genie is an AI-powered podcast generator that transforms your input into fu
 7.   
 
 ## Running Tests
-
 ```bash
 npm test
 
-#Hope my application made you smile! Have a fantastic day
+
+
+   ## Hope my application made you smile! Have a fantastic day 
